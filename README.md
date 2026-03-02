@@ -1,65 +1,78 @@
 # 👋 Hi, I'm Héctor Napoleon López
 
-Business Intelligence & Data Solutions Professional with experience in analytics, ERP systems, and scalable data architecture. I specialize in transforming business requirements into structured, data-driven solutions.
+Data & Business Systems Engineer focused on integrating platforms, automating processes, and transforming complex data into actionable insights.
+
+I work across analytics, system integration, and business applications to build scalable and maintainable solutions.
 
 ---
 
-## 🚀 About Me
+## 🚀 What I Do
 
-I work at the intersection of Business Intelligence, Data Engineering, and Business Systems Development. My focus is on building reliable data models, optimizing analytics performance, and integrating reporting solutions into real business environments.
-
-- 📊 Power BI dashboard development (PBIX / PBIP architecture)
-- 🧠 Advanced DAX & semantic model optimization
-- 🗄️ SQL development and query performance tuning
-- 🐍 Data processing and automation with Python
-- ⚛️ ERP project collaboration using React
-- 🔄 Structured version control with Git & GitHub
+- 🔄 ETL development and data integration from APIs and SQL databases
+- 📊 Advanced analytics and dashboard development (Power BI & Looker Studio)
+- 🐍 Data analysis, forecasting, and large-scale processing using Python (Pandas, Polars)
+- 🏢 Business application development (Power Apps, App Script)
+- ⚛️ ERP system collaboration using modern frontend technologies
+- 🗄️ SQL architecture and performance optimization
+- 📈 Automation of reporting and operational workflows
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Core Technologies
 
 ### 📊 Analytics & BI
-- Power BI (PBIX / PBIP)
-- DAX
-- SQL Server
-- Data Modeling
-- ETL & Data Transformation
-
-### 💻 Development
-- Python
-- React
-- JavaScript
-- Git & GitHub
-
-### 📈 Business & Productivity
-- Advanced Excel
-- Reporting Automation
-- Process Optimization
+- Power BI (Advanced DAX & data modeling)
+- Looker Studio
 - KPI Design & Executive Dashboards
 
+### 🐍 Data Engineering & Analysis
+- Python (Pandas, Polars, forecasting models)
+- Data cleaning & transformation
+- Large dataset processing
+- Statistical analysis
+
+### 🔗 Integration & Automation
+- REST APIs
+- SQL (PostgreSQL, SQL Server)
+- Google Apps Script
+- Power Apps
+- Google Workspace automation
+- Microsoft ecosystem tools
+
+### 💻 Development
+- React
+- TypeScript
+- JavaScript
+- Supabase
+- Git & GitHub
+
 ---
 
-## 📂 Current Focus
+## 🎯 Professional Focus
 
-- ERP system development (React-based architecture)
-- Scalable BI project structure with version control
-- Improving data governance and semantic modeling
-- Integrating analytics into operational systems
+I specialize in building systems where:
+
+- Data flows seamlessly between platforms
+- Automation reduces operational friction
+- Analytics integrates directly into business operations
+- Scalability and maintainability are part of the design
 
 ---
 
-## 🎯 Professional Vision
+## 📈 Current Direction
 
-To design and implement data-driven solutions that connect systems, analytics, and business strategy — turning raw data into strategic decision-making tools.
+Expanding deeper into:
+
+- Scalable ERP and business system architecture
+- Advanced data engineering practices
+- High-performance data processing
+- Integrated analytics ecosystems
 
 ---
 
 ## 📫 Connect With Me
 
-- LinkedIn: https://www.linkedin.com/in/hectornapoleonlopez/
-- Open to collaboration on BI, Data, and ERP-related projects
+LinkedIn:
+https://www.linkedin.com/in/hectornapoleonlopez/
 
----
-
-⭐ Always learning. Always building. Always optimizing.
+Always open to collaboration on data-driven and system-integration projects.
