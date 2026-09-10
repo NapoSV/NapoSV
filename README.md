@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Héctor Napoleon López
+# Hi, I'm Héctor Napoleon López
 
 Data & Business Systems Engineer focused on integrating platforms, automating processes, and transforming complex data into actionable insights.
 
